@@ -1,8 +1,6 @@
-How to use the program:
+#How to use the program:
 
-Below are some instruction you can use if you would like to run my program. 
-
-Items needed before running the Project. 
+##Items needed before running the Project. 
 1.	MySQL Community Server (Windows or Mac OS)
 a.	Download using this Link. 
 b.	Installation Instructions for OSX 10.9 : Link
@@ -14,9 +12,9 @@ a.	Download using this Link.
 3.	Configuring MySQL Server Properties
 a.	Use this Link to configure your MySQL Database Server.
 
-Now you have all the required items installed, lets begin the process of running the project.
+##Now you have all the required items installed, lets begin the process of running the project.
 
-Follow these Steps:
+###Follow these Steps:
 1.	Open Netbeans and create a new Java Project and call it CS460. 
 2.	Add the files: LoginWindow, Sha, and UserDatabase to your project.
 3.	In netbeans, click the services tab and expand the Databases. 
